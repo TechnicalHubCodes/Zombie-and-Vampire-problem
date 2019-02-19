@@ -4,7 +4,7 @@ void sort(int *,int);
 void main()
 {
 	int n,c[100],v[100],z[100],i,j=0,k=0,sumV=0,sumZ=0;
-	clrscr();
+	//clrscr();
 	printf("Enter no of creatures: ");
 	scanf("%d",&n);
 	printf("\nEnter power of zombies and vampires:\n");
@@ -31,7 +31,7 @@ void main()
 	printf("\nVampires:\n");
 	sort(v,k);
 	printf("%d",sumV);
-	getch();
+	//getch();
 }
 void sort(int *z,int k)
 {
