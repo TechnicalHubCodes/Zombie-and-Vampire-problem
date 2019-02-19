@@ -1,4 +1,4 @@
-#Vampire and Zombie power problem in Banglore city.
+# Vampire and Zombie power problem in Banglore city.
 
 Bangalore City, where peace prevails most of the time. Not everyone is a huge fan of peace, though. Certainly not Mr. XYZ, whose identity is not known to us - yet. Mr. XYZ has somehow managed to bring vampires and zombies to Bangalore City to attack and destroy the city.
 
